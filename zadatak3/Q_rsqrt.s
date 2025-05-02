@@ -1,4 +1,4 @@
-#hena husicic :))
+#hena husicic :)
 
 .section .rodata
 threehalfs: 

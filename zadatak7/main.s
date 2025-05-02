@@ -1,3 +1,4 @@
+#henaa
 .section .rodata
 nums:
   .double 1., 5.7, 9.4, 14.8, 7.1, 8.2, 10.5
